@@ -18,3 +18,10 @@ Andi Pangeran --> [Event Sourcing Architecture](https://drive.google.com/file/d/
 Photo Session :
 
 ![Photo Session](img/jvm13_photo_session.JPG)
+
+Monggo di-Like and Subscribe.
+
+Follow FP : [JVM Developer ID](https://www.facebook.com/JVMDeveloperID/)
+Telegram : [@JVMUserGroup](t.me/JVMUserGroup)
+Twitter : [@jvmdeveloperid](https://twitter.com/jvmdeveloperid)
+Linkedin : [JVM User Group](https://www.linkedin.com/in/jvm-user-group-9ba49b142/)
