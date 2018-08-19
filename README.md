@@ -3,7 +3,7 @@ Conclusion from JVM Meetup 13 @ Jenius BTPN
 
 Tuesday, August 14th 2018
 
-![Poster JVM Meetup12 ](img/jvm13_poster.png)
+![Poster JVM Meetup12 ](https://github.com/JVMDeveloperID/JVM-Meetup-13/blob/master/img/jvm13_poster.jpg)
 
 Link Event --> [s.id/jvm13](http://s.id/jvm13)
 
