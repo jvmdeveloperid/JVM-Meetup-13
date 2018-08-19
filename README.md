@@ -9,11 +9,11 @@ Link Event --> [s.id/jvm13](http://s.id/jvm13)
 
 Materi Slide 1 :
 
-Eko Kurniawan Khannedy (Senior Principal RnD Blibli) --> [Event Driven Architecture](https://github.com/JVMDeveloperID/JVM-Meetup-13/blob/master/slide/Kafka%20as%20messaging%20bus%20for%20Product%20Information%20enrichment.pdf) 
+Eko Kurniawan Khannedy (Senior Principal RnD Blibli) --> [Event Driven Architecture](https://drive.google.com/file/d/1prbfHQPFaBUu_7NMaD8cqx-mhxhvjpKa/view?usp=sharing) 
 
 Materi Slide 2 :
 
-Andi Pangeran --> [Event Sourcing Architecture](https://github.com/JVMDeveloperID/JVM-Meetup-12/blob/master/slide/Message-Driven%20Integration.pdf) 
+Andi Pangeran --> [Event Sourcing Architecture](https://drive.google.com/file/d/1B3LyT_JWoO5kBjrD02rWRqkOUFk1YxAz/view?usp=sharing) 
 
 Photo Session :
 
