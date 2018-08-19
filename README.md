@@ -23,7 +23,7 @@ Andi Pangeran --> [Event Sourcing Architecture](https://drive.google.com/file/d/
 
 Follow FP : [JVM Developer ID](https://www.facebook.com/JVMDeveloperID/)
 
-Telegram : [@JVMUserGroup](t.me/JVMUserGroup)
+Telegram : [@JVMUserGroup](https://t.me/JVMUserGroup)
 
 Twitter : [@jvmdeveloperid](https://twitter.com/jvmdeveloperid)
 
